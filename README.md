@@ -3,6 +3,8 @@
 This is the first project I took on in SQL. It involves me following allowing with [Alex the Analys](https://www.youtube.com/@AlexTheAnalyst) and writing out code and checking with his solution compared to mine
 
 This was the first real practice I gained with CTEs and Window Functions as well as working with a much larger dataset. 
+
+Also includes a script for cleaning the data.
 ## Task
 Finding out relevant data about layoffs from different companies around the world.
 
